@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "title": "React Essentials",
+    "description": "Build modern web apps with components, hooks, and routing.",
+    "price": 1999,
+    "level": "beginner",
+    "duration": 18,
+    "banner": "/images/react.png",
+    "syllabus": [
+      "Intro to React",
+      "JSX & Components",
+      "State & Props",
+      "Hooks",
+      "Routing"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "UI/UX Foundations",
+    "description": "Principles of design, wireframing, prototyping, and usability.",
+    "price": 1499,
+    "level": "beginner",
+    "duration": 15,
+    "banner": "/images/datascience.png",
+    "syllabus": [
+      "Design Basics",
+      "Color & Type",
+      "Layouts",
+      "Wireframes",
+      "Prototypes"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Data Science 101",
+    "description": "Learn data wrangling, visualization, and basic ML concepts.",
+    "price": 2499,
+    "level": "intermediate",
+    "duration": 22,
+    "banner": "/images/datascience.png",
+    "syllabus": [
+      "Python & Numpy",
+      "Pandas",
+      "EDA",
+      "Visualization",
+      "Intro to ML"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "JavaScript Mastery",
+    "description": "Deep dive into modern ES6+, async programming, and APIs.",
+    "price": 1799,
+    "level": "beginner",
+    "duration": 20,
+    "banner": "/images/javascript.png",
+    "syllabus": [
+      "ES6 Features",
+      "Functions & Scope",
+      "Async & Promises",
+      "APIs & Fetch",
+      "Projects"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Python for Data Analysis",
+    "description": "Analyze datasets using pandas, numpy, and matplotlib.",
+    "price": 1999,
+    "level": "intermediate",
+    "duration": 25,
+    "banner": "/images/python.png",
+    "syllabus": [
+      "Python Basics",
+      "Numpy Arrays",
+      "DataFrames",
+      "Visualization",
+      "Case Studies"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Machine Learning Basics",
+    "description": "Supervised learning, regression, classification, and evaluation.",
+    "price": 2999,
+    "level": "advanced",
+    "duration": 30,
+    "banner": "/images/image1.png",
+    "syllabus": [
+      "Regression",
+      "Classification",
+      "Clustering",
+      "Model Evaluation",
+      "Real Projects"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Tailwind CSS Bootcamp",
+    "description": "Style modern UIs faster with utility-first Tailwind CSS.",
+    "price": 999,
+    "level": "beginner",
+    "duration": 10,
+    "banner": "/images/tailwind.png",
+    "syllabus": [
+      "Setup",
+      "Utilities",
+      "Layouts",
+      "Components",
+      "Responsive Design"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Next.js Fullstack Guide",
+    "description": "Build SSR and API-driven apps with Next.js.",
+    "price": 2499,
+    "level": "intermediate",
+    "duration": 28,
+    "banner": "/images/nextjs.png",
+    "syllabus": [
+      "Pages & Routing",
+      "SSR & SSG",
+      "APIs",
+      "Auth",
+      "Deployment"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Node.js Backend Development",
+    "description": "Build scalable REST APIs and services with Node.js & Express.",
+    "price": 2299,
+    "level": "intermediate",
+    "duration": 26,
+    "banner": "/images/node.png",
+    "syllabus": [
+      "Intro to Node",
+      "Express Framework",
+      "Databases",
+      "Auth",
+      "API Deployment"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Database Design & SQL",
+    "description": "Learn relational database design and querying with SQL.",
+    "price": 1599,
+    "level": "beginner",
+    "duration": 18,
+    "banner": "/images/sql.png",
+    "syllabus": [
+      "ER Models",
+      "SQL Basics",
+      "Joins",
+      "Transactions",
+      "Optimization"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "DevOps Essentials",
+    "description": "CI/CD pipelines, Docker, Kubernetes, and cloud basics.",
+    "price": 2999,
+    "level": "advanced",
+    "duration": 35,
+    "banner": "/images/essential.png",
+    "syllabus": [
+      "Linux & Bash",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Cloud Deployment"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Cybersecurity Basics",
+    "description": "Understand threats, security practices, and ethical hacking.",
+    "price": 1999,
+    "level": "beginner",
+    "duration": 16,
+    "banner": "/images/cybersecurity.png",
+    "syllabus": [
+      "Cyber Threats",
+      "Encryption",
+      "Networks",
+      "Vulnerabilities",
+      "Ethical Hacking"
+    ]
+  }
+]
