@@ -39,7 +39,7 @@ Registration generates a fake token saved in localStorage.
 
 Access to the student dashboard is managed via a ProtectedRoute component that checks for this token.
 ### JSON Server
-Data lives in `server/db.json`.
+Data lives in `server/Corses.json`.
 ```bash
 npm run server
 # GET http://localhost:5186/courses
