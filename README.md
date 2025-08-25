@@ -25,7 +25,7 @@ Use the Register page. The demo "auth" stores a fake token in `localStorage`.
 Protected routes are handled by `ProtectedRoute`.
 
 ### JSON Server
-Data lives in `server/db.json`.
+Data lives in `server/Corses.json`.
 ```bash
 npm run server
 # GET http://localhost:5186/courses
